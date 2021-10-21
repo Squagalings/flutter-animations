@@ -1,5 +1,6 @@
 # flutter-animations
-All coursefiles for the Flutter Animations tutorial series on the Net Ninja youtube channel.
+code by Squagalings
+source: The Net Ninja
 # Flutter Animation Tutorial Notes
 ## #3: tween animation builder
 - map steps between a start and end value
